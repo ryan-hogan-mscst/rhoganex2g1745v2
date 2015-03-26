@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!DesktopModules/
+
+DesktopModules/*
+!DesktopModules/rhogan/
+!DesktopModules/rhogan/*
+
+
